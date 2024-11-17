@@ -1,0 +1,32 @@
+{
+  metadata: TypeError: Cannot read properties of undefined (reading 'replace')
+      at auth (file:///home/eric/eric/Nodejs_API_REST/middlewares/auth.js:4:46)
+      at Layer.handle [as handle_request] (/home/eric/eric/Nodejs_API_REST/node_modules/express/lib/router/layer.js:95:5)
+      at next (/home/eric/eric/Nodejs_API_REST/node_modules/express/lib/router/route.js:149:13)
+      at Route.dispatch (/home/eric/eric/Nodejs_API_REST/node_modules/express/lib/router/route.js:119:3)
+      at Layer.handle [as handle_request] (/home/eric/eric/Nodejs_API_REST/node_modules/express/lib/router/layer.js:95:5)
+      at /home/eric/eric/Nodejs_API_REST/node_modules/express/lib/router/index.js:284:15
+      at Function.process_params (/home/eric/eric/Nodejs_API_REST/node_modules/express/lib/router/index.js:346:12)
+      at next (/home/eric/eric/Nodejs_API_REST/node_modules/express/lib/router/index.js:280:10)
+      at Function.handle (/home/eric/eric/Nodejs_API_REST/node_modules/express/lib/router/index.js:175:3)
+      at router (/home/eric/eric/Nodejs_API_REST/node_modules/express/lib/router/index.js:47:12),
+  level: 'error',
+  message: "Cannot read properties of undefined (reading 'replace')",
+  timestamp: '2024-11-14T12:55:36.449Z'
+}
+{
+  metadata: TypeError: Cannot read properties of undefined (reading 'replace')
+      at auth (file:///home/eric/eric/Nodejs_API_REST/middlewares/auth.js:4:46)
+      at Layer.handle [as handle_request] (/home/eric/eric/Nodejs_API_REST/node_modules/express/lib/router/layer.js:95:5)
+      at next (/home/eric/eric/Nodejs_API_REST/node_modules/express/lib/router/route.js:149:13)
+      at Route.dispatch (/home/eric/eric/Nodejs_API_REST/node_modules/express/lib/router/route.js:119:3)
+      at Layer.handle [as handle_request] (/home/eric/eric/Nodejs_API_REST/node_modules/express/lib/router/layer.js:95:5)
+      at /home/eric/eric/Nodejs_API_REST/node_modules/express/lib/router/index.js:284:15
+      at Function.process_params (/home/eric/eric/Nodejs_API_REST/node_modules/express/lib/router/index.js:346:12)
+      at next (/home/eric/eric/Nodejs_API_REST/node_modules/express/lib/router/index.js:280:10)
+      at Function.handle (/home/eric/eric/Nodejs_API_REST/node_modules/express/lib/router/index.js:175:3)
+      at router (/home/eric/eric/Nodejs_API_REST/node_modules/express/lib/router/index.js:47:12),
+  level: 'error',
+  message: "Cannot read properties of undefined (reading 'replace')",
+  timestamp: '2024-11-14T20:05:34.538Z'
+}
